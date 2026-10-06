@@ -1,0 +1,19 @@
+{
+  "wheel_id": 346,
+  "structure": "umbrella",
+  "slug": "bendigohomeloanbroker-com-103",
+  "project": "mortgage-broker-bendigo-comparison-de7a3cae0830f543f2387fd2bb0e",
+  "parent_t1_ref": "bendigohomeloanbroker-com-151",
+  "node_role": "feeder",
+  "money_target": "bendigohomeloanbroker.com.au",
+  "primary_kw": "mortgage broker bendigo comparison",
+  "intended_url": "https://sitesau.github.io/bendigohomeloanbroker-com-103/",
+  "writeback_nonce": "aa763b81865f5db1",
+  "links": [
+    {
+      "target_url": "https://sites-e470-2.web.app/mortgage-broker-bendigo-74916cd1bf8296d842d7f7b126103d7bc9640a0/",
+      "anchor": "mortgage broker bendigo",
+      "rel": "follow"
+    }
+  ]
+}
